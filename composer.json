@@ -1,0 +1,17 @@
+{
+    "name": "zkk/kmf",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangkuankuan",
+            "email": "zhangkuankuan@kmf.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+	    "Zkk\\Kmf\\": "src"
+	}
+    }
+}
