@@ -8,10 +8,11 @@
             "email": "zhangkuankuan@kmf.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
-    	"psr-4": {
-	    "Zkk\\Kmf\\": "src"
-	}
+        "psr-4": {
+            "Zkk\\Kmf\\": "src"
+        }
     }
 }
